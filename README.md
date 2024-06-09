@@ -43,7 +43,7 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 ## Achievements
 - ** Academic and Research Excellence: ** 
 Multiple Rector's Awards for excellence in academia and research, particularly in criminal intelligence analyses and tax evasion detection.
-- AT&T Above and Beyond Award (2018): 
+- ** AT&T Above and Beyond Award (2018): **
 Recognized for exceptional performance and taking overall responsibility for a major client project.
 
 ## Projects
