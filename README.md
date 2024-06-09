@@ -9,3 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Explore my journey through the Data Analyst course @Coders Lab CZ & SK IT Academy with this portfolio. Each script highlights a different project, demonstrating my skills in Excel, Python, and SQL for data analysis and manipulation.💡🔍 In the end you can find projects visualization
+
+
+Firstly, I would start with my background and CV.
+
+My LinkedIn profile: https://www.linkedin.com/in/zuzana-tomcik/
+
+ABOUT ME
