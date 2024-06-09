@@ -17,8 +17,13 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 
 ## Skills
 - Languages: Python, SQL
-- Tools: Excel, Power BI, Tableau, ETL
-- Other Skills: Data Visualization, Statistical Modeling, Project Management, Financial Analysis
+- ETL processes: 
+    Extract: CSV, XLXS, JSON, APIs, Webscraping
+    Transform: Excel, Python, SQL
+    Load: Power BI, Tableau, Dashboards via Python
+- Tools: Excel, Power BI, Tableau
+- Project Management Tools: Jira, Confluence, MS Office package, Slack
+- Other Skills: Data Analysis, Data Visualization, Project Implementation Management, Financial Analysis, Team Leadership, Client interaction
 
 ## Professional Experience
 IT Network Analyst, Accenture Central Europe B.V. (01/2020 - 07/2020, Prague)
