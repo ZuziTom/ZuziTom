@@ -1,6 +1,6 @@
 ## 👋 Hello, World! I'm ZuziTom
 
-📊 I'm ZuziTom, a data enthusiast on a mission post-Data Analyst course.
+📊 ... a data enthusiast on a mission post-Data Analyst course.
 🚀 Passionate about uncovering patterns and trends buried within data and translating them into actionable insights.
 💡 Let's crunch some data and make magic happen! ✨
 
@@ -27,13 +27,13 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 
 ## Professional Experience
 - IT Network Analyst, Accenture Central Europe B.V. (01/2020 - 07/2020, Prague)
-    Supported 3 project teams by maintaining project documentation and providing client updates. Utilized data visualization to produce various project schedules and reports. Managed internal systems for time tracking, attendance, and billing.
+    - Supported 3 project teams by maintaining project documentation and providing client updates. Utilized data visualization to produce various project schedules and reports. Managed internal systems for time tracking, attendance, and billing.
 
 - Lead Project Implementation Manager, AT&T Global Network Services Slovakia, s.r.o. (12/2017 - 12/2019, Bratislava)
-    Managed end-to-end implementation and lifecycle of major client projects, providing daily reports to directors and VPs. Contributed over 150 overtime hours, and led a team of 5, receiving the Above and Beyond certificate for exceptional performance.
+    - Managed end-to-end implementation and lifecycle of major client projects, providing daily reports to directors and VPs. Contributed over 150 overtime hours, and led a team of 5, receiving the Above and Beyond certificate for exceptional performance.
 
 - Finance Specialist / Relocation Specialist, Santa Fe Relocation Services (01/2016 - 11/2017, Slovakia/Austria)
-    Managed financial and business forms, facilitated purchases, performed statistical analyses and reports, and ensured data accuracy in financial spreadsheets.
+    - Managed financial and business forms, facilitated purchases, performed statistical analyses and reports, and ensured data accuracy in financial spreadsheets.
 
 ## Education
 - Data Analyst Certification, Coders Lab IT Academy (11/2023 - 05/2024)
@@ -41,7 +41,7 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 - Bachelor of International Economic Relations, University of Economics (09/2012 - 06/2015)
 
 ## Achievements
-- Academic and Research Excellence: 
+- ** Academic and Research Excellence: ** 
 Multiple Rector's Awards for excellence in academia and research, particularly in criminal intelligence analyses and tax evasion detection.
 - AT&T Above and Beyond Award (2018): 
 Recognized for exceptional performance and taking overall responsibility for a major client project.
