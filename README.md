@@ -25,7 +25,7 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 - Project Management Tools: Jira, Confluence, MS Office package, Slack
 - Other Skills: Data Analysis, Data Visualization, Project Implementation Management, Financial Analysis, Team Leadership, Client interaction
 
-# Professional Experience
+## Professional Experience
 - IT Network Analyst, Accenture Central Europe B.V. (01/2020 - 07/2020, Prague)
     Supported 3 project teams by maintaining project documentation and providing client updates. Utilized data visualization to produce various project schedules and reports. Managed internal systems for time tracking, attendance, and billing.
 
@@ -35,29 +35,26 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 - Finance Specialist / Relocation Specialist, Santa Fe Relocation Services (01/2016 - 11/2017, Slovakia/Austria)
     Managed financial and business forms, facilitated purchases, performed statistical analyses and reports, and ensured data accuracy in financial spreadsheets.
 
-# Education
+## Education
 - Data Analyst Certification, Coders Lab IT Academy (11/2023 - 05/2024)
 - Master of Security-Legal Protection of Persons and Property, Academy of Police Force (09/2011 - 06/2016)
 - Bachelor of International Economic Relations, University of Economics (09/2012 - 06/2015)
 
-# Achievements
-## Academic and Research Excellence: 
+## Achievements
+- Academic and Research Excellence: 
 Multiple Rector's Awards for excellence in academia and research, particularly in criminal intelligence analyses and tax evasion detection.
-## AT&T Above and Beyond Award (2018): 
+- AT&T Above and Beyond Award (2018): 
 Recognized for exceptional performance and taking overall responsibility for a major client project.
 
-
-# Projects
+## Projects
 Portfolio from Data Analyst Course @Coders Lab CZ & SK IT Academy:
 Each script highlights a different project, demonstrating my skills in Excel, Python, and SQL for data analysis and manipulation. Projects include data visualization and analysis to showcase actionable insights.
 
-
-# Publications
+## Publications
 Detection of Tax Evasion and Tax-related Criminal Activity (2014):
 Co-authored a scientific study on tax evasion detection, contributing quantitative and qualitative analysis of tax-related criminal activity.
 
-
-# Contact
+## Contact
 Email: Zuzana.Tomcik91@gmail.com
 LinkedIn: [Zuzana Tomčík](https://www.linkedin.com/in/zuzana-tomcik/)
 Location: Prague, Czech Republic
