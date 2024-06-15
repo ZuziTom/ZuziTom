@@ -41,10 +41,10 @@ I'm ZuziTom, a certified Data Analyst with a comprehensive experience in data an
 - Bachelor of International Economic Relations, University of Economics (09/2012 - 06/2015)
 
 ## Achievements
-- ** Academic and Research Excellence: ** 
-Multiple Rector's Awards for excellence in academia and research, particularly in criminal intelligence analyses and tax evasion detection.
 - ** AT&T Above and Beyond Award (2018): **
 Recognized for exceptional performance and taking overall responsibility for a major client project.
+- ** Academic and Research Excellence (2014,2016): ** 
+Multiple Rector's Awards for excellence in academia and research, particularly in criminal intelligence analyses and tax evasion detection.
 
 ## Projects
 Portfolio from Data Analyst Course @Coders Lab CZ & SK IT Academy:
